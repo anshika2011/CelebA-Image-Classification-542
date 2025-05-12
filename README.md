@@ -22,15 +22,15 @@ The project structure is organized as follows:
 '''
 project_root
 
-├── data/                 # Contains raw and preprocessed data
-├── models/            # Jupyter Notebooks for model training and evaluation
-│   ├── logistic_lda_qda.ipynb    # Logistic Regression
-│   ├── SVM.ipynb         # Support Vector Machines (Linear and RBF)
-│   ├── BayesianNeuralNet.ipynb    # Bayesian Neural Networks
-│   └── VisionTransformer.ipynb         # Vision Transformer scripts/
-│   ├── RandomForestXGboost.py  # Random Forest and Xgboost Classification
-├── README.md             # Project description and instructions
-└── requirements.txt      # Python dependencies
+1. data/                 # Contains details to get the data
+2. models          # Jupyter Notebooks for model training and evaluation
+logistic_lda_qda.ipynb    # Logistic Regression
+SVM.ipynb         # Support Vector Machines (Linear and RBF)
+BayesianNeuralNet.ipynb    # Bayesian Neural Networks
+VisionTransformer.ipynb         # Vision Transformer scripts/
+RandomForestXGboost.py  # Random Forest and Xgboost Classification
+3. README.md             # Project description and instructions
+4. requirements.txt      # Python dependencies
 
 '''
 
