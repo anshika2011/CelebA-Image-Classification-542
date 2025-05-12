@@ -21,6 +21,7 @@ Project Structure
 The project structure is organized as follows:
 '''
 project_root
+
 ├── data/                 # Contains raw and preprocessed data
 ├── models/            # Jupyter Notebooks for model training and evaluation
 │   ├── logistic_lda_qda.ipynb    # Logistic Regression
@@ -30,6 +31,7 @@ project_root
 │   ├── RandomForestXGboost.py  # Random Forest and Xgboost Classification
 ├── README.md             # Project description and instructions
 └── requirements.txt      # Python dependencies
+
 '''
 
 Installation
