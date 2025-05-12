@@ -1,1 +1,33 @@
+# System and Utility Libraries
+os
+sys
+argparse
+warnings
+
+# Data Manipulation and Analysis
+pandas
+numpy
+pickle
+
+# Image Processing
+PILLOW
+
+# Deep Learning Framework
+torch
+torchvision
+timm
+transformers
+
+# Probabilistic Programming
+pyro-ppl
+
+# Visualization
+matplotlib
+
+# Progress Bar
+tqdm
+
+# Machine Learning Models and Metrics
+scikit-learn
+xgboost
 
